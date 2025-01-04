@@ -8,5 +8,5 @@ Import all the required modules
 
 open any IDE like Pycharm,Visual Studio Code
 ```
-run Gesture_Controller.py file
+run Gesture_Controller.py 
 ```
