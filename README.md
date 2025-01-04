@@ -1,6 +1,6 @@
 # Hand_Gesture_Controlled_Virtual_Mouse
 
-Hi,this is mohan-m3we
+Hi,this is mohan-m3we(Mohan M)
 
 How to run this project?
 
