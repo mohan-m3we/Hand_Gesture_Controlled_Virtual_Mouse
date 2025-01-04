@@ -7,6 +7,8 @@ How to run this project?
 Import all the required modules
 
 open any IDE like Pycharm,Visual Studio Code
+
+run
 ```
-run Gesture_Controller.py 
+Gesture_Controller.py 
 ```
